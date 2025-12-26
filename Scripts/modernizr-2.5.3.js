@@ -2,7 +2,7 @@
  * Modernizr v2.5.3
  * www.modernizr.com
  *
- * Copyright (c) Faruk Ates, Paul Irish, Alex Sexton
+ * Copyright (c) Faruk Ates, Paul Irish, 
  * Available under the BSD and MIT licenses: www.modernizr.com/license/
  */
 
